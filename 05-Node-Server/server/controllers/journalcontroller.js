@@ -4,9 +4,9 @@ let validateSession = require("../middleware/validate-session");
 const { route } = require("./usercontroller");
 const Journal = require("../db").import("../models/journal");
 
-router.get("/practice", validateSession, function (req, res) {
-  res.send("This is a practice route");
-});
+// router.get("/practice", validateSession, function (req, res) {
+//   res.send("This is a practice route");
+// });
 
 router.post("/create", validateSession, (req, res) => {
   const journalEntry = {
@@ -20,7 +20,7 @@ router.post("/create", validateSession, (req, res) => {
     .catch((err) => res.status(500).json({ error: err }));
 });
 //get all entries
-router.get("/", validateSession, (req, res) => {
+router.get("/", (req, res) => {
   Journal.findAll()
     .then((journals) => res.status(200).json(journals))
     .catch((err) => res.status(500).json({ error: err }));

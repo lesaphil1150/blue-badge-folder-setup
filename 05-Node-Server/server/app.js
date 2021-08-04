@@ -6,7 +6,7 @@ let journal = require("./controllers/journalcontroller");
 let user = require("./controllers/usercontroller");
 
 sequelize.sync();
-app.use(require("./middleware/headers"));
+app.use(require("./middleware/headers")); //should this be validate session?!
 app.use(express.json());
 
 app.use("/journal", journal);
