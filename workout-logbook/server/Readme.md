@@ -1,1 +1,7 @@
-![](assets/C:\ElevenFiftyProjects\blue-badge-folder-setup\workout-logbook\server\Assets)
+![get_log](https://user-images.githubusercontent.com/84040762/128441250-ff6d166e-80d9-4570-9086-f9e16cf94dd3.png)
+![get_log_id](https://user-images.githubusercontent.com/84040762/128441252-7ac9aef4-3dc1-4ac9-b826-8d57c42f1a9b.png)
+![post_log](https://user-images.githubusercontent.com/84040762/128441256-2a3031d0-a5b6-4bc6-86e1-e7e023936d54.png)
+![put_log_id](https://user-images.githubusercontent.com/84040762/128441261-ffcc2730-8ee1-4b25-a086-e7ec0f511367.png)
+![user_login](https://user-images.githubusercontent.com/84040762/128441266-4fb849a3-e9dd-45d9-a5bf-231f237152d8.png)
+![user_register](https://user-images.githubusercontent.com/84040762/128441269-681a72ca-19f5-4856-b8be-b4c4b9516b95.png)
+![delete_log_id](https://user-images.githubusercontent.com/84040762/128441246-65f37154-786a-4d29-955a-82cd03b1abeb.png)
