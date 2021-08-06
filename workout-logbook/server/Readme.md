@@ -1,1 +1,1 @@
-![](C:\ElevenFiftyProjects\blue-badge-folder-setup\workout-logbook\server\Assets)
+![](assets/C:\ElevenFiftyProjects\blue-badge-folder-setup\workout-logbook\server\Assets)
